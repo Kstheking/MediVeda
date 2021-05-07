@@ -1,0 +1,72 @@
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.main-title {
+  padding-bottom: 2rem;
+}
+
+.btun {
+  margin: 25px;
+  height: 150px;
+  width: 80px;
+  border: 2px solid black;
+
+}
+
+.card:hover{
+     transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+img {
+  max-width: 300px;
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.card {
+  margin-top: 3rem;
+}
+.card-text {
+  color:#00AF91;
+}
+
+#contact {
+  margin: 4rem 0 2rem;
+  padding: 1rem 3rem 1rem;
+  text-align: center;
+  background-color:#A3D2CA;
+}
+
+.info {
+  margin: 2rem 0 1rem;
+  padding: 1rem 3rem 2rem;
+  text-align: center;
+  background-color:#A3D2CA;
+}
+
+.description {
+  text-align: left;
+  margin-top: 10rem;
+  margin-left: 9%;
+}
+.break {
+  margin-top: 5rem;
+}
+.content{
+  margin-left: 3rem;
+}
+.break1 {
+  margin-bottom: 2rem;
+}
+#disease {
+  text-emphasis-color: black;
+}
